@@ -1,4 +1,4 @@
-treamlit 
+streamlit 
 groq 
 google-auth
 google-auth-oauthlib
