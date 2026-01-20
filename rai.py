@@ -3,6 +3,7 @@ from groq import Groq
 
 st.set_page_config("PragyanAI Content Generator", layout="wide")
 st.title("📢 PragyanAI – Content Generator")
+st.image("C:\Users\Student\OneDrive\Pictures\my.jpg")
 
 client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 
